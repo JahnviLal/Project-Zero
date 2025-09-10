@@ -28,10 +28,7 @@ public class Cafe
    }
 
    //Setters
-   public void setName(String name)
-   {
-       this.name = name;
-   }
+   
    public void setCapacity(int capacity)
    {
        this.capacity = capacity;
