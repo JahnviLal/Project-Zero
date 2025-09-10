@@ -1,0 +1,32 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse
+*.metadata/
+*.classpath
+*.project
+
+# IntelliJ
+*.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Others
+*.swp
+*.swo
+
+# Build
+/build/
+/bin/

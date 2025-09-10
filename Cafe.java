@@ -41,7 +41,11 @@ public class Cafe
        this.numberOfCustomers = numberOfCustomers;
    }
 
-   //Method for Adding Customers
+   //Method for Adding Customers    
+   /**
+    * Adds a customer if capacity is not reached    
+    * @return
+    */
    public boolean addCustomer()
    {
        if (numberOfCustomers < capacity)
